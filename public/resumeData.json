@@ -1,11 +1,10 @@
 {
   "main": {
     "name": "Dipendra Bahadur Chand",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "occupation": "Web/App Designer and Developer && Mentor @VSIC",
+    "description": "I helps creating awesome and effective visual identities for companies of all sizes around the globe. Let's start scrolling and learn more about me.",
+    "image": "https://dipendrachand.com.np/images/profilepic.jpg",
+    "bio": "Information and Technology drives me to the world of infinite possibilities that are impossible from the other aspects. While thinking the world without IT, we can simply imagine how world would suffer. I want every people of the world to access the technology",
     "email": "chand.dipendra19@gmail.com",
     "phone": "+977 9843681599",
     "address": {
